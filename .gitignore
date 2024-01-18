@@ -1,0 +1,9 @@
+*.sass
+bin/
+admin/
+config/
+.vs/
+homework4.sln
+homework4/homework4.vcxproj
+homework4/homework4.vcxproj.filters
+homework4/homework4.vcxproj.user
